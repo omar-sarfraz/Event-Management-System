@@ -1,0 +1,127 @@
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.AssemblyReference.cache
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.GenerateResource.cache
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.AssemblyInfoInputs.cache
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.AssemblyInfo.cs
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\Event Management System.exe
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\Event Management System.deps.json
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\Event Management System.runtimeconfig.json
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\Event Management System.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\Event Management System.pdb
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\refint\Event Management System.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.pdb
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.genruntimeconfig.cache
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\ref\Event Management System.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.MainMenu.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Customers.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.UserControls.Dashboard.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Employee.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.StockItem.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.SuppliedItemsReceipt.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Supplier.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Credits.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.AvailibleItemsList.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.ItemUsed.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.WorkDetails.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.CopyComplete
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.AddEvent.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.Event.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.ViewEvents.resources
+C:\Users\Mr. Nobody\source\repos\Event Management System\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.UpdateEvent.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.exe
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.deps.json
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.runtimeconfig.json
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.pdb
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.AssemblyReference.cache
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.AvailibleItemsList.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Credits.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Customers.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.UserControls.Dashboard.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Employee.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.AddEvent.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.Event.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.UpdateEvent.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.ViewEvents.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.ItemUsed.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.MainMenu.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.StockItem.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.SuppliedItemsReceipt.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Supplier.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.WorkDetails.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.GenerateResource.cache
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.AssemblyInfoInputs.cache
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.AssemblyInfo.cs
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.CopyComplete
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\refint\Event Management System.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.pdb
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.genruntimeconfig.cache
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\ref\Event Management System.dll
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.AddEmployee.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EmployeeUC.ViewEmployee.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.DeleteEvent.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EmployeeUC.DeleteEmployee.resources
+C:\Users\Ahmad Raza\Desktop\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EmployeeUC.UpdateEmployee.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.exe
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.deps.json
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.runtimeconfig.json
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Event Management System.pdb
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.AssemblyReference.cache
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.AvailibleItemsList.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Credits.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Customers.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.UserControls.Dashboard.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.AddEmployee.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EmployeeUC.DeleteEmployee.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Employee.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EmployeeUC.UpdateEmployee.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EmployeeUC.ViewEmployee.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.AddEvent.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.DeleteEvent.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.Event.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.UpdateEvent.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.EventUC.ViewEvents.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.ItemUsed.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.MainMenu.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.StockItem.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.SuppliedItemsReceipt.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.Supplier.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event_Management_System.WorkDetails.resources
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.GenerateResource.cache
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.AssemblyInfoInputs.cache
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.AssemblyInfo.cs
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.CoreCompileInputs.cache
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.csproj.CopyComplete
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\refint\Event Management System.dll
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.pdb
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\Event Management System.genruntimeconfig.cache
+C:\Users\Mr. Nobody\Desktop\Omar\Database\omarsarfraz-event_management_system-1c83ca72dd1c\Event Management System\obj\Debug\net6.0-windows\ref\Event Management System.dll

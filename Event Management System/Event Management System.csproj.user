@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AvailibleItemsList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Credits.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Customers.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EmployeeUC\AddEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EmployeeUC\DeleteEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EmployeeUC\UpdateEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EmployeeUC\ViewEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EventUC\AddEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EventUC\DeleteEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EventUC\Event.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EventUC\UpdateEvent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EventUC\ViewEvents.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ItemUsed.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StockItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="SuppliedItemsReceipt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Supplier.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WorkDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
